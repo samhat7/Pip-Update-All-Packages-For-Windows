@@ -4,4 +4,4 @@ Run the command prompt as an administrator to give the script privileges to writ
 python pipupdateall.py 
 to execute the script and it will go on to update all the packages.
 
-To run the command prompt as an administrator search for it and right click on the icon and them click on Run as Administrator.
+To run the command prompt as an administrator search for it and right click on the icon and then click on Run as Administrator.
